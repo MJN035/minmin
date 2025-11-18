@@ -1,0 +1,2 @@
+# minmin
+ai project
